@@ -1,0 +1,2 @@
+# NikBot
+MagicNickBot
